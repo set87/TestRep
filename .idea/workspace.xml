@@ -6,7 +6,7 @@
     </list>
     <ignored path="GITtest.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="ed604d09-316c-42f3-9a07-6fc912c45d32" time="1374602522401" ignored="false" />
+    <file path="/Dummy.txt" changelist="ed604d09-316c-42f3-9a07-6fc912c45d32" time="1374602535051" ignored="false" />
     <file path="/pom.xml" changelist="ed604d09-316c-42f3-9a07-6fc912c45d32" time="1374593709549" ignored="false" />
     <file path="/FirtsTest.java" changelist="ed604d09-316c-42f3-9a07-6fc912c45d32" time="1374594262303" ignored="false" />
     <file path="/fragment.java" changelist="ed604d09-316c-42f3-9a07-6fc912c45d32" time="1374594413415" ignored="false" />
@@ -427,7 +427,11 @@
       <created>1374602526040</created>
       <updated>1374602526040</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="2">
+      <created>1374602536044</created>
+      <updated>1374602536044</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
