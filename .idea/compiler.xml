@@ -23,6 +23,7 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="GITtest" />
+        <module name="TestRep2" />
       </profile>
     </annotationProcessing>
   </component>
